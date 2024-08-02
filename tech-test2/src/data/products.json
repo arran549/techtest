@@ -1,0 +1,164 @@
+[
+    {
+      "category": "Smartphones",
+      "products": [
+        {
+          "name": "iPhone 12",
+          "description": "Apple smartphone with A14 Bionic chip and dual-camera system.",
+          "price": 799,
+          "currency": "GBP"
+        },
+        {
+          "name": "Samsung Galaxy S21",
+          "description": "Samsung smartphone with Exynos 2100 and triple-camera setup.",
+          "price": 769,
+          "currency": "GBP"
+        },
+        {
+          "name": "Google Pixel 5",
+          "description": "Google smartphone with Snapdragon 765G and excellent camera performance.",
+          "price": 599,
+          "currency": "GBP"
+        }
+      ]
+    },
+    {
+      "category": "Laptops",
+      "products": [
+        {
+          "name": "MacBook Air",
+          "description": "Apple laptop with M1 chip, lightweight design, and long battery life.",
+          "price": 999,
+          "currency": "GBP"
+        },
+        {
+          "name": "Dell XPS 13",
+          "description": "Dell laptop with Intel Core i7, InfinityEdge display, and sleek design.",
+          "price": 1099,
+          "currency": "GBP"
+        },
+        {
+          "name": "HP Spectre x360",
+          "description": "HP convertible laptop with Intel Core i7, 4K OLED display, and premium build.",
+          "price": 1199,
+          "currency": "GBP"
+        }
+      ]
+    },
+    {
+      "category": "Headphones",
+      "products": [
+        {
+          "name": "Bose QuietComfort 35",
+          "description": "Wireless noise-cancelling headphones with high-quality sound.",
+          "price": 299,
+          "currency": "GBP"
+        },
+        {
+          "name": "Sony WH-1000XM4",
+          "description": "Wireless noise-cancelling headphones with superior sound quality and comfort.",
+          "price": 349,
+          "currency": "GBP"
+        },
+        {
+          "name": "Apple AirPods Pro",
+          "description": "True wireless earbuds with active noise cancellation and spatial audio.",
+          "price": 249,
+          "currency": "GBP"
+        }
+      ]
+    },
+    {
+      "category": "Smartwatches",
+      "products": [
+        {
+          "name": "Apple Watch Series 6",
+          "description": "Apple smartwatch with blood oxygen sensor and ECG capabilities.",
+          "price": 379,
+          "currency": "GBP"
+        },
+        {
+          "name": "Samsung Galaxy Watch 4",
+          "description": "Samsung smartwatch with advanced health tracking and seamless integration with Android.",
+          "price": 249,
+          "currency": "GBP"
+        },
+        {
+          "name": "Fitbit Sense",
+          "description": "Fitbit smartwatch with stress management tools and heart health monitoring.",
+          "price": 279,
+          "currency": "GBP"
+        }
+      ]
+    },
+    {
+      "category": "Tablets",
+      "products": [
+        {
+          "name": "iPad Pro",
+          "description": "Apple tablet with M1 chip and Liquid Retina XDR display.",
+          "price": 999,
+          "currency": "GBP"
+        },
+        {
+          "name": "Samsung Galaxy Tab S7",
+          "description": "Samsung tablet with Snapdragon 865+ and S Pen support.",
+          "price": 649,
+          "currency": "GBP"
+        },
+        {
+          "name": "Microsoft Surface Pro 7",
+          "description": "Microsoft tablet with Intel Core i7 and versatile kickstand.",
+          "price": 749,
+          "currency": "GBP"
+        }
+      ]
+    },
+    {
+      "category": "Monitors",
+      "products": [
+        {
+          "name": "Dell UltraSharp U2720Q",
+          "description": "27-inch 4K USB-C monitor with excellent color accuracy and connectivity.",
+          "price": 699,
+          "currency": "GBP"
+        },
+        {
+          "name": "LG UltraFine 5K",
+          "description": "27-inch 5K monitor with Thunderbolt 3 connectivity and high-resolution display.",
+          "price": 1199,
+          "currency": "GBP"
+        },
+        {
+          "name": "BenQ PD3220U",
+          "description": "32-inch 4K monitor with HDR support and factory-calibrated color accuracy.",
+          "price": 1099,
+          "currency": "GBP"
+        }
+      ]
+    },
+    {
+      "category": "Printers",
+      "products": [
+        {
+          "name": "HP OfficeJet Pro 9015",
+          "description": "All-in-one wireless printer with fast printing and smart app integration.",
+          "price": 229,
+          "currency": "GBP"
+        },
+        {
+          "name": "Canon PIXMA TR8520",
+          "description": "Wireless all-in-one printer with great photo printing quality.",
+          "price": 179,
+          "currency": "GBP"
+        },
+        {
+          "name": "Brother HL-L2350DW",
+          "description": "Compact monochrome laser printer with wireless printing and duplex capabilities.",
+          "price": 129,
+          "currency": "GBP"
+        }
+      ]
+    }
+  ]
+  
